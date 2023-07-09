@@ -16,3 +16,6 @@ Setelah anda mempelajari tentang praktikum di pertemuan 5 sampai 13, buatlah pre
 Batas pengumpulan hari minggu, 16 Juli 2023 jam 23.59 WIB 
 Cara Pengumpulan tugas :upload di LMS pada menu Assignment dengan nama file: TUGAS2_DeepLearning_NIM_NAMA.
 Tidak ada penambahan waktu pengumpulan, kecuali ada instruksi lanjutan
+
+Recurrent Neural Networks (RNN) memiliki arsitektur dengan sedikit layer (lapisan), namun susunanya rumit dengan adanya aliran koneksi mundur. Dengan sejumlah koneksi mundur ini, RNN sesuai untuk data sekuens (deretan atau barisan), seperti data time series (deretan data-data historis), teks(skuens kalimat, kata, subkata, atau huruf), suara(barisan amplitudo, frekuensi, spectrum, cepstrum), atau video(deretan gambar) yang disebut sebagai sequence of image frames. Walaupun hanya berisi sedikit lapisan, RNN bisa dianggap DL karena ada koneksi mundur (looping). Dahulu, para ahli kesulitan melatih RNN karena sering terjebak pada vanishing gradient, tetapi teknik pembelajaran DL mampu mengatasi masalah vanishing gradient tersebut.
+
